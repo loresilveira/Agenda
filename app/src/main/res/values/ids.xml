@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="campoNome" type="id" />
+    <item name="campoEndereco" type="id" />
+    <item name="campoTelefone" type="id" />
+    <item name="campoEmail" type="id" />
+    <item name="campoSite" type="id" />
+    <item name="campoNota" type="id" />
+</resources>
